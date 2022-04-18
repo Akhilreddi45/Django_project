@@ -13,5 +13,5 @@ Start project django-admin startproject <name>_project
 Next command the <name>_project
 migrate with python manage.py migrate
 Next runserver python manage.py runserver
-Using this server Starting development server at http://127.0.0.1:8000/ for test.
+Using this server Starting development server at http://127.0.0.1:8000 for test.
 Use pycharm or any python IDE and Test for result.
